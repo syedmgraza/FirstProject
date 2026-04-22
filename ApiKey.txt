@@ -1,3 +1,0 @@
-api Key="japio405uhoahoitu49u3405uhjfoij"
-username=user
-password=123456
